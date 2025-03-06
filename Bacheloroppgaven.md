@@ -34,7 +34,7 @@ I svært lave temperaturer der salt virker dårlig, eller på mindre veier og fo
 
 #### 2.1.4 Snøbrøyting og snøfjerning
 
-Mekanisk brøyting er fundamentet i vintervedlikehold. Brøytebiler fjerner snø fra kjørebanen for å opprettholde fremkommelighet, ofte i kombinasjon med salting eller sandstrøing. I mange byer skyves snøen ut til veiskulder eller brøytekanter, hvor den etter hvert smelter eller fraktes bort. Noen byer med svært mye snø har egne rutiner for snørydding og -deponering.
+Mekanisk brøyting er en grunnleggende del i vintervedlikehold. Brøytebiler fjerner snø fra kjørebanen for å opprettholde fremkommelighet, ofte i kombinasjon med salting eller sandstrøing. I mange byer skyves snøen ut til veiskulder eller brøytekanter, hvor den etter hvert smelter eller fraktes bort. Noen byer med svært mye snø har egne rutiner for snørydding og -deponering.
 
 #### 2.1.5 Utfordringer ved bruk av salt og sand
 
