@@ -23,7 +23,12 @@ Vintervedlikehold av urbane områder er avgjørende for trafikksikkerhet og frem
 
 ### 2.1 Vintervedlikehold i urbane områder
 #### 2.1.1 Formål og metoder
-#### 2.1.2 Utfordringer ved bruk av salt og sand
+
+#### 2.1.2 Salting av veier
+
+Veisalt (natriumklorid, NaCl) er det mest brukte kjemikaliet for å smelte is og snø på veier. Salt senker frysepunktet til vann og er effektivt ned til rundt -10 °C til -15 °C, avhengig av blandingsforhold og trafikk. Det er populært fordi det er billig og enkelt å bruke, men bruken er omfattende.
+
+#### 2.1.5 Utfordringer ved bruk av salt og sand
 
 ### 2.2 Miljøkonsekvenser av vintervedlikehold
 ### 2.3 Betydning for vår-rengjøring
