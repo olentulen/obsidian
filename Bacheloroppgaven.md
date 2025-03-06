@@ -55,8 +55,6 @@ Opphopningen av forurensende materiale er en av de viktigste grunnene til at kom
 
 
 
-
-
 ### 2.3 Betydning for vår-rengjøring
 ### 2.4 Organisatoriske og kontraktuelle rammer
 ### 2.5 Sammenligninger fra andre byer/land
