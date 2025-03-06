@@ -34,12 +34,18 @@ I svært lave temperaturer der salt virker dårlig, eller på mindre veier og fo
 
 #### 2.1.4 Snøbrøyting og snøfjerning
 
-Mekanisk brøyting er en grunnleggende del i vintervedlikehold. Brøytebiler fjerner snø fra kjørebanen for å opprettholde fremkommelighet, ofte i kombinasjon med salting eller sandstrøing. I mange byer skyves snøen ut til veiskulder eller brøytekanter, hvor den etter hvert smelter eller fraktes bort. Noen byer med svært mye snø har egne rutiner for snørydding og -deponering. Montreal – Nord-Amerikas snørikeste storby med ca. 210 cm snø årlig – [har et av verdens største snøryddingssystemer​](https://en.wikipedia.org/wiki/Snow_removal_in_Montreal). Der mobiliseres rundt [3 000 ansatte og 2 200 maskiner](https://phys.org/news/2023-02-montreal-snow-clearing-good-traffic-bad.pdf#:~:text=Philippe%20Sabourin,Florent%20Barbecot%2C%20a%20professor%20of) hver gang det snør, og kommunen fjerner totalt ca. 300 000 lastebillass med snø hver vinter. Snøen fraktes til store snødeponier, hvor den danner enorme hauger. Denne strategien sikrer trafikksikkerhet selv under ekstreme forhold, men er kostbar (Montreal brukte ca. 180 millioner canadiske dollar på vinterdrift i 2020, noe som tilsvarer ca. 90 CAD per innbygger i fylket).
+Mekanisk brøyting er en grunnleggende del i vintervedlikehold. Brøytebiler fjerner snø fra kjørebanen for å opprettholde fremkommelighet, ofte i kombinasjon med salting eller sandstrøing. I mange byer skyves snøen ut til veiskulder eller brøytekanter, hvor den etter hvert smelter eller fraktes bort. Noen byer med svært mye snø har egne rutiner for snørydding og -deponering. Montreal – Nord-Amerikas snørikeste storby med ca. 210 cm snø årlig – [har et av verdens største snøryddingssystemer​](https://en.wikipedia.org/wiki/Snow_removal_in_Montreal). Der mobiliseres rundt [3 000 ansatte og 2 200 maskiner](https://phys.org/news/2023-02-montreal-snow-clearing-good-traffic-bad.pdf#:~:text=Philippe%20Sabourin,Florent%20Barbecot%2C%20a%20professor%20of) hver gang det snør, og kommunen fjerner totalt ca. 300 000 lastebillass med snø hver vinter. Snøen fraktes til store snødeponier, hvor den danner enorme hauger. Denne strategien sikrer trafikksikkerhet selv under ekstreme forhold, men er kostbar (Montreal brukte ca. 180 millioner canadiske dollar på vinterdrift i 2020, noe som tilsvarer ca. 90 CAD per innbygger i fylket).Det har også sine egne miljøutfordringer når snødeponiene smelter – dette omtales nærmere under miljøpåvirkning. I Norge er det sjeldnere at hele snømengden kjøres bort; som regel brøytes snø til sider og midlertidige depoter, og noe fjernes fra sentrumsgater ved behov. Uansett reduserer effektiv brøyting behovet for kjemikalier: Jo raskere og mer fullstendig snøen blir fjernet mekanisk, desto mindre salt trengs for å oppnå bar vei.
 
 
-#### 2.1.5 Utfordringer ved bruk av salt og sand
+### 2.2 Miljøpåvirkning fra vintervedlikehold
 
-### 2.2 Miljøkonsekvenser av vintervedlikehold
+Vinterdrift av veier påvirker miljøet på to hovedområder: Vann og jord gjennom avrenning av salt og andre forurensninger, og Luftkvalitet gjennom svevestøv (støvpartikler) fra veislitasje og strømateriale. I tillegg har selve driften (kjøretøyutslipp, støy) en miljøkostnad, men her fokuserer jeg på salt og støv som er de mest betydelige utfordringene.
+
+#### 2.2.1 Avrenning av veisalt og den forurensningen det fører til
+
+
+
+
 ### 2.3 Betydning for vår-rengjøring
 ### 2.4 Organisatoriske og kontraktuelle rammer
 ### 2.5 Sammenligninger fra andre byer/land
