@@ -12,6 +12,8 @@
 ###  1.4	Innledning
 
 #### 1.4.1 Bakgrunn og kontekst
+
+Vintervedlikehold av urbane områder er avgjørende for trafikksikkerhet og fremkommelighet, men det medfører også betydelige miljøutfordringer. Hvert år benyttes enorme mengder veisalt og sand for å bekjempe snø og is. For eksempel bruker USA anslagsvis [25 millioner tonn](https://www.johnson.k-state.edu/programs/lawn-garden/agent-articles-fact-sheets-and-more/agent-articles/environment/the-great-salt-debate.html#:~:text=The%20Kansas%20Department%20of%20Transportation,tons%20of%20salt%20per%20year) veisalt hver vinter, mens Canada bruker rundt 5 millioner tonn​
 #### 1.4.2 Problemstilling
 
 #### 1.4.3 Avgrensning.
