@@ -51,9 +51,8 @@ Om vinteren avsetter det seg gradvis et lag av veistøv på og langs veiene. V
 
 #### 2.2.3 Behovet for vårrengjøring
 
-Det er nettopp på grunn av denne opphopningen av forurensende materiale at kommunene gjennomfører omfattende vårrengjøring av veiene. Når snøen smelter og veiene tørker opp, ligger det igjen **ekstra mye støv, sand og salt** som må fjernes​
+Opphopningen av forurensende materiale er en av de viktigste grunnene til at kommunene gjennomfører omfattende vårrengjøring av veiene. Når snøen smelter og veiene tørker opp, ligger det igjen ekstra mye støv og sand som må fjernes. Feiing, kosting, vakuumsuging og spyling [benyttes](https://www.salt.no/artikler/svevestov-og-veistov-hvorfor-ma-vi-stovbinde-veiene#:~:text=match%20at%20L79%20Om%20våren,byggeplass%20er%20de%20tradisjonelle%20metodene) for å fjerne sand og veistøv før det rekker å virvle opp i luften​
 
-[](https://www.salt.no/artikler/svevestov-og-veistov-hvorfor-ma-vi-stovbinde-veiene#:~:text=Om%20v%C3%A5ren%20ligger%20det%20ekstra,byggeplass%20er%20de%20tradisjonelle%20metodene)
 
 ### 2.3 Betydning for vår-rengjøring
 ### 2.4 Organisatoriske og kontraktuelle rammer
