@@ -55,7 +55,7 @@ Opphopningen av forurensende materiale er en av de viktigste grunnene til at kom
 
 #### 2.2.4 Snøsmelteanlegg og rensing av smeltevann
 
-En lovende løsning for å håndtere forurenset snø er snøsmelteanlegg med renseteknologi. Prinsippet er at man samler opp brøytet snø og smelter den under kontrollerte forhold, samtidig som smeltevannet filtreres og renses for forurensninger før det slippes ut. På den måten unngår man ukontrollerte utslipp av store mengder salt og tungmetaller under vårsmeltingen. Oslo sitt anlegg er et forbilde i så måte. NCCs snøsmelteanlegg i Oslo har vært i drift i flere år og håndterer all snø fra indre by. 
+En lovende løsning for å håndtere forurenset snø er snøsmelteanlegg med renseteknologi. Prinsippet er at man samler opp brøytet snø og smelter den under kontrollerte forhold, samtidig som smeltevannet filtreres og renses for forurensninger før det slippes ut. På den måten unngår man ukontrollerte utslipp av store mengder salt og tungmetaller under vårsmeltingen. Oslo sitt anlegg er et forbilde i så måte. NCCs snøsmelteanlegg i Oslo har vært i drift i flere år og håndterer all snø fra indre by. Snøen tippes i et smelteanlegg der den smeltes ved hjelp av sjøvann hentet fra dypet i fjorden. Smelteprosessen kombinerer mekanisk nedknusing og omrøring for å fremskynde oppløsningen av snøen. Vannet renses for partikler gjennom sedimentering og et roterende mikrofilter, mens olje på overflaten fjernes med oljelense. Det rensede smeltevannet slippes deretter ut i fjorden under anlegget, bak et siltskjørt som bidrar til å fange opp svevepartikler.
 
 
 
