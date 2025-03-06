@@ -32,7 +32,9 @@ Veisalt (natriumklorid, NaCl) er det mest brukte kjemikaliet for å smelte is og
 
 I svært lave temperaturer der salt virker dårlig, eller på mindre veier og fortau, strør man ofte sand eller grus for å forbedre friksjonen. Sand smelter ikke is, men skaper et ruere underlag. Fordelen er bedre veigrep uten å tilføre kjemikalier; ulempen er at strømaterialet blir liggende igjen og må håndteres. Mye av strøsanden [knuses til finstoff](https://www.forskning.no/forurensning-nilu-norsk-institutt-for-luftforskning-partner/varlufta-er-full-av-svevestov/268722#:~:text=Image%3A%20Oslo%20kommune%20brukte%2038,Illustrasjonsfoto%3A%20Shutterstock%20%2F%20NTB%20Scanpix) (støv) av trafikken, spesielt når veiene tørker opp på senvinteren/våren.​ Uten grundig oppsamling kan sanden tette sluk og gi avrenning av sedimenter til vassdrag. En rapport fra USA illustrerer problemet: Rhode Island bruker en 50/50-blanding av salt og sand for å redusere saltbruken, men [95 % av sanden blir ikke hentet opp](https://www.epa.gov/snep/winter-coming-and-it-tons-salt-our-roads#:~:text=has%20been%20increasing%20across%20New,Other%20alternatives%20include) igjen etterpå og skylles ut i naturen​.
 
+#### 2.1.4 Snøbrøyting og snøfjerning
 
+Mekanisk brøyting er fundamentet i vintervedlikehold. Brøytebiler fjerner snø fra kjørebanen for å opprettholde fremkommelighet, ofte i kombinasjon med salting eller sandstrøing. I mange byer skyves snøen ut til veiskulder eller brøytekanter, hvor den etter hvert smelter eller fraktes bort. Noen byer med svært mye snø har egne rutiner for snørydding og -deponering.
 
 #### 2.1.5 Utfordringer ved bruk av salt og sand
 
