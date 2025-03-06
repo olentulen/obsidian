@@ -47,8 +47,9 @@ Veisaltet som spres, forsvinner ikke – det løses i smeltevann og regnvann og 
 
 #### 2.2.2 Støvdannelse og luftforurensning
 
-Om vinteren avsetter det seg gradvis et lag av veistøv på og langs veiene. Veistøv består av ørsmå partikler fra asfalt- og dekkslitasje, bremsestøv, strøsand, og til og med tørre saltkrystaller​
+Om vinteren avsetter det seg gradvis et lag av veistøv på og langs veiene. Veistøv består av ørsmå partikler fra asfalt- og dekkslitasje, bremsestøv og strøsand. I den kalde årstiden holder snø, is og fuktighet mye av dette støvet nede på bakken. Men når våren kommer og veiene tørker opp, virvles store mengder støv opp i luften av forbipasserende kjøretøy og vindkast​. Spesielt i byer med mye trafikk, høy andel biler med piggdekk og utstrakt bruk av strøsand, kan vårmånedene få episoder med svært høy **svevestøvkonsentrasjon** (PM_10) i luften​
 
+[](https://www.tiltak.no/e-beskytte-eller-reparere-miljoeet/e2-luft-og-vannforurensning/e-2-2/#:~:text=veiene,og%20der%20det%20brukes%20str%C3%B8sand)
 
 ### 2.3 Betydning for vår-rengjøring
 ### 2.4 Organisatoriske og kontraktuelle rammer
