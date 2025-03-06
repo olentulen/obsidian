@@ -39,7 +39,7 @@ Mekanisk brøyting er en grunnleggende del i vintervedlikehold. Brøytebiler fje
 
 ### 2.2 Miljøpåvirkning fra vintervedlikehold
 
-Vinterdrift av veier påvirker miljøet på to hovedområder: Vann og jord gjennom avrenning av salt og andre forurensninger, og Luftkvalitet gjennom svevestøv (støvpartikler) fra veislitasje og strømateriale. I tillegg har selve driften (kjøretøyutslipp, støy) en miljøkostnad, men her fokuserer jeg på salt og støv som er de mest betydelige utfordringene.
+Vinterdrift av veier påvirker miljøet på to hovedområder: Vann og jord gjennom avrenning av salt og andre forurensninger, og luftkvalitet gjennom svevestøv (støvpartikler) fra veislitasje og strømateriale. I tillegg har selve driften (kjøretøyutslipp, støy) en miljøkostnad, men her fokuserer jeg på salt og støv som er de mest betydelige utfordringene.
 
 #### 2.2.1 Avrenning av veisalt og den forurensningen det fører til
 
