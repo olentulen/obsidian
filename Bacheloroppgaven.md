@@ -43,7 +43,7 @@ Vinterdrift av veier påvirker miljøet på to hovedområder: Vann og jord gje
 
 #### 2.2.1 Avrenning av veisalt og den forurensningen det fører til
 
-
+Veisaltet som spres, forsvinner ikke – det løses i smeltevann og regnvann og renner av til bakken og vannforekomster. Statens vegvesen er pålagt gjennom vannforskriften å ha kontroll på slike utslipp for å unngå brudd på miljøkvalitetsnormer
 
 
 ### 2.3 Betydning for vår-rengjøring
